@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.6",
+  "name": "siyuan_database_landscape_scrollbar",
+  "author": "zxkmm",
+  "url": "https://github.com/zxkmm/siyuan_database_landscape_scrollbar",
+  "version": "0.0.1",
   "minAppVersion": "3.0.12",
   "backends": [
     "windows",
@@ -15,18 +15,16 @@
   ],
   "frontends": [
     "desktop",
-    "mobile",
     "browser-desktop",
-    "browser-mobile",
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "SiYuan Database Landscape Scrollbar",
+    "zh_CN": "思源数据库横向滚动条"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "en_US": "SiYuan Database Landscape Scrollbar",
+    "zh_CN": "思源数据库横向滚动条"
   },
   "readme": {
     "en_US": "README.md",
@@ -39,7 +37,9 @@
   },
   "keywords": [
     "plugin",
-    "sample",
-    "插件样例"
+    "database",
+    "scrollbar",
+    "数据库",
+    "滚动条"
   ]
 }
