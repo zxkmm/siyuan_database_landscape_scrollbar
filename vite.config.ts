@@ -45,6 +45,7 @@ export default defineConfig({
 
     JavaScriptObfuscator({
       options: {
+        codemap: process.env.NODE_ENV !== "production",
         compact: true,
         controlFlowFlattening: false,
         controlFlowFlatteningThreshold: 0.3,

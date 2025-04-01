@@ -1,8 +1,11 @@
-# SiYuan database landscape scrollbar
+# 块横向滚动条插件
 
-# Note
+对于长度超过屏幕长度，宽度超过屏幕宽度的块（例如数据库，代码块等），思源只在块底部提供一个横向滚动条，如果你只想用鼠标操作的话，你只能竖向滚动到块最底部，拖动滚动条，然后竖向滚动回原来的位置。  
 
-THIS PLUGIN IS CLOSE SOURCE.
+此插件的作用是，如果插件检测到你的块超长超宽，会在屏幕底部添加一个横向滚动条，你可以通过那个滚动条来进行横向滚动，不需要使用块底部的滚动条。  
 
-Since a lot of hard work has been put into this, and I don’t make money from it (as it’s free), some community members are still being jerk to me. 
-As a result, this plugin will remain closed-source until this repository reaches 200 stars.
+# 备注
+
+此插件目前是闭源免费的。当GitHub仓库攒够200个星星后会开源。  
+如果你希望插件开源，请在这里给我点免费的Github星星：https://github.com/zxkmm/siyuan_database_landscape_scrollbar  
+（请注意：闭源插件是广泛存在的，只是开发者没有告诉你） 
