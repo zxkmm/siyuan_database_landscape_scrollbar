@@ -21,6 +21,13 @@ export default class SiyuanDatabaseLandscape_scrollbar extends Plugin {
       name: STORAGE_NAME,
     });
     this.settingUtils.addItem({
+      key: "begging",
+      value: "",
+      type: "hint",
+      title: this.i18n.beggingTitle,
+      description: this.i18n.beggingDesc,
+    });
+    this.settingUtils.addItem({
       key: "Hint",
       value: "",
       type: "hint",
