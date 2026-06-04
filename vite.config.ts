@@ -51,7 +51,7 @@ export default defineConfig({
         controlFlowFlatteningThreshold: 0.3,
         deadCodeInjection: true,
         deadCodeInjectionThreshold: 0.2,
-        debugProtection: true,
+        debugProtection: false,
         disableConsoleOutput: false,
         identifierNamesGenerator: "mangled",
         log: false,
