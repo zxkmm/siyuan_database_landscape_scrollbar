@@ -52,7 +52,7 @@ export default defineConfig({
         deadCodeInjection: true,
         deadCodeInjectionThreshold: 0.2,
         debugProtection: true,
-        disableConsoleOutput: true,
+        disableConsoleOutput: false,
         identifierNamesGenerator: "mangled",
         log: false,
         numbersToExpressions: false,
