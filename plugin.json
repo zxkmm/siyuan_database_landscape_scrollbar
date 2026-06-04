@@ -2,7 +2,7 @@
   "name": "siyuan_database_landscape_scrollbar",
   "author": "zxkmm",
   "url": "https://github.com/zxkmm/siyuan_database_landscape_scrollbar",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "minAppVersion": "3.0.12",
   "backends": [
     "windows",
