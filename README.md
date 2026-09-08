@@ -4,8 +4,14 @@ For blocks with a length exceeding the screen length and a width exceeding the s
 
 The function of this plugin is that if the plugin detects that your block is too long and too wide, it will add a horizontal scrollbar at the bottom of the screen. You can use that scrollbar to perform horizontal scrolling without using the scrollbar at the bottom of the block.
 
-# Remarks
+## Without the plugin
 
-This plugin is currently closed-source and free. It will be open-sourced when the GitHub repository accumulates 200 stars.
-If you hope that the plugin will be open-sourced, please give me a free GitHub star here: https://github.com/zxkmm/siyuan_database_landscape_scrollbar
-(Please note: Closed-source plugins are widespread. It's just that the developer didn't tell you.)
+![Without the plugin](asset/without-plugin.png)
+
+## With the plugin
+
+![With the plugin](asset/with-plugin.png)
+
+## Works for code blocks too
+
+![Works for code blocks too](asset/code-block.png)

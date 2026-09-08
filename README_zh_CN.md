@@ -4,8 +4,14 @@
 
 此插件的作用是，如果插件检测到你的块超长超宽，会在屏幕底部添加一个横向滚动条，你可以通过那个滚动条来进行横向滚动，不需要使用块底部的滚动条。  
 
-# 备注
+## 不使用此插件
 
-此插件目前是闭源免费的。当GitHub仓库攒够200个星星后会开源。  
-如果你希望插件开源，请在这里给我点免费的Github星星：https://github.com/zxkmm/siyuan_database_landscape_scrollbar  
-（请注意：闭源插件是广泛存在的，只是开发者没有告诉你） 
+![不使用此插件](asset/without-plugin.png)
+
+## 使用此插件
+
+![使用此插件](asset/with-plugin.png)
+
+## 代码块同样适用
+
+![代码块同样适用](asset/code-block.png)
